@@ -1,0 +1,7 @@
+*.out
+*.[oa]
+*~
+# blabla
+build/
+doc/*.txt
+

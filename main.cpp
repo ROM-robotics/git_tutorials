@@ -8,6 +8,7 @@ int main()
 	int num=0;
 
 	do{
+		std::cout<< "Hello world"<<std::endl;
 	std::cout<< "enter positive integer: "<< std::endl;
 	cin>>num;
 	}while(num<0);
