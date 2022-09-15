@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
+#include "include/free.hpp"
 
-int factorial(int num);
 
 int main()
 {
@@ -19,5 +19,8 @@ int main()
 		}
 		
 	std::cout<< num << " != " << factorial << std::endl;
+
+	std::cout<< "sum(2,3)= " << sum(2,3) << std::endl;
+
 	return 0;
 }
