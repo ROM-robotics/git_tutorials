@@ -7,6 +7,7 @@ int main()
 {
 	int num=0;
 	float degree=90;
+	float radian=3.1415/2.0;
 
 	do{
 		std::cout<< "Hello world"<<std::endl;
