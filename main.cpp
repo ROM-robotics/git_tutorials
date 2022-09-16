@@ -6,6 +6,7 @@ int factorial(int num);
 int main()
 {
 	int num=0;
+	float radian=3.1415/2.0;
 
 	do{
 	std::cout<< "enter positive integer: "<< std::endl;
