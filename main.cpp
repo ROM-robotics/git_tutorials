@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	int num=0;
+	float degree=90;
 
 	do{
 		std::cout<< "Hello world"<<std::endl;
